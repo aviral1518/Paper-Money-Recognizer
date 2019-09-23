@@ -1,4 +1,4 @@
-# Currency-Recognition-System
+# Paper Money Recognizer
 This project recognizes currencies of different world by using Tesseract OCR(optical character recognition) and image processing. 
 
 Steps to run:-
